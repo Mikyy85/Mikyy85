@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <h3>My Stats</h3>
 
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyy85&show_icons=true&theme=onedark&layout=compact" alt="Mikyy85-stats"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyy85&show_icons=true&layout=compact" alt="Mikyy85-stats"/>
  
  
